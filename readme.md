@@ -1,1 +1,0 @@
-# Fraud detection test exercise
