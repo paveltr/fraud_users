@@ -12,5 +12,5 @@ def clean_text(x, mode):
     elif mode == 'text':
         return ''.join(r for r in re.findall(r'[a-z]+', str(x).lower()))
     else:
-        return 'choose correct mode value [numbers, text]'
+        raise ValueError('choose correct mode value [numbers, text]')
 
