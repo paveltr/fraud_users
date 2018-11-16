@@ -8,7 +8,7 @@ Script to download data, detect fraud users and upload result to Google Cloud bu
 python fraud_model.py --b_name "gs://e5e92660-4647-4f30-8c2c-4120a0aeb37f" --u_path "users/2017/09/09" 
 --t_path "tracks/2017/09/09" --s_path "streams/2017/09/09/allcountries"
 ```
-File will be saved to bucket with <i>20181116_fraud_users</i> name in csv gzip compressed format
+File will be saved to bucket with <i>{current_date}_fraud_users</i> (e.g. <i>20181116_fraud_users</i>) name in csv gzip compressed format
 
 # Parameters specification
 
