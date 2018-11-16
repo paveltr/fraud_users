@@ -10,6 +10,15 @@ python fraud_model.py --b_name "gs://e5e92660-4647-4f30-8c2c-4120a0aeb37f" --u_p
 ```
 File will be saved to bucket with <b>{current_date}_fraud_users</b> (e.g. <b>20181116_fraud_users</b>) name in csv gzip compressed format
 
+# Requirements
+
+```
+python==3.6+
+sklearn==0.19.1
+numpy==1.15.4
+pandas==0.23.0
+```
+
 # Parameters specification
 
 <ul>
