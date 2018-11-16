@@ -1,0 +1,18 @@
+2018-11-17 00:28:30,933 INFO predict_fraudsters.__main__ Files downloaded
+2018-11-17 00:28:30,934 INFO predict_fraudsters.__main__ Fraud search started
+2018-11-17 00:28:30,934 INFO predict_fraudsters.__main__ Files processing started
+2018-11-17 00:28:40,631 ERROR predict_fraudsters.__main__ Script failed with error: [Errno 2] No such file or directory: 'data/tracks'
+2018-11-17 00:30:11,400 INFO predict_fraudsters.__main__ Files downloaded
+2018-11-17 00:30:11,400 INFO predict_fraudsters.__main__ Fraud search started
+2018-11-17 00:30:11,400 INFO predict_fraudsters.__main__ Files processing started
+2018-11-17 00:31:21,479 INFO predict_fraudsters.__main__ Files processed
+2018-11-17 00:31:21,486 INFO predict_fraudsters.__main__ Outliers seach process started
+2018-11-17 00:33:38,668 INFO predict_fraudsters.__main__ Outliers successfully found
+2018-11-17 00:33:40,193 INFO predict_fraudsters.__main__ Find_similar started
+2018-11-17 00:34:22,817 INFO predict_fraudsters.__main__ Find similar finished
+2018-11-17 00:34:22,840 INFO predict_fraudsters.__main__ Distance check started
+2018-11-17 00:34:44,407 INFO predict_fraudsters.__main__ Distance check finished
+2018-11-17 00:34:44,516 INFO predict_fraudsters.__main__ Fraud search finished
+2018-11-17 00:34:44,523 INFO predict_fraudsters.__main__ Files merged
+2018-11-17 00:34:44,895 INFO predict_fraudsters.__main__ File with fraud users saved
+2018-11-17 00:34:47,217 INFO predict_fraudsters.__main__ Result file uploaded to Google Cloud

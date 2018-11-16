@@ -135,7 +135,7 @@ def read_files(data_path, users_name = 'users', tracks_name = 'tracks', streams_
 
     
 def find_outliers(users, tracks, streams, encoders_path, train, std_ratio):
-     """
+    """
     Function detects users with extreme activity
     
     Args:
