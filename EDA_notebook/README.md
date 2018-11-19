@@ -1,1 +1,1 @@
-Exploration Data Analysis
+Exploratory Data Analysis
